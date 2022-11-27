@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/usr/bin/ninja",
+      "-C",
+      "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/156l205n/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/usr/bin/ninja",
+    "-C",
+    "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/156l205n/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Debug-x86": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommandComponents": [
+        "/usr/bin/ninja",
+        "-C",
+        "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/156l205n/x86",
+        "opencv_jni_shared"
+      ],
+      "abi": "x86",
+      "output": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/156l205n/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

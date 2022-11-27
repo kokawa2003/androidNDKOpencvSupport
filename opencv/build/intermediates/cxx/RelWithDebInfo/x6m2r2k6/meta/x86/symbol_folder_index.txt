@@ -1,0 +1,1 @@
+/home/kokawa2003/AndroidStudioProjects/MyApplication11/opencv/build/intermediates/cxx/RelWithDebInfo/x6m2r2k6/obj/x86

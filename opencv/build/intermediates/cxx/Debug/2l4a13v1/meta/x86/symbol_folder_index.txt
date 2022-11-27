@@ -1,0 +1,1 @@
+/home/kokawa2003/AndroidStudioProjects/MyApplication11/opencv/build/intermediates/cxx/Debug/2l4a13v1/obj/x86

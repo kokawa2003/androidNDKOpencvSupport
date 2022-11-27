@@ -1,0 +1,1 @@
+/home/kokawa2003/AndroidStudioProjects/MyApplication11/opencv/libcxx_helper/CMakeLists.txt

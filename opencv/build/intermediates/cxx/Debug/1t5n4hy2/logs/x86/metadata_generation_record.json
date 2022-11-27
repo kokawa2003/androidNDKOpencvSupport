@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1947405012
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/1t5n4hy2/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2103665996
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1739294177
+  }
+]

@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/1t5n4hy2/arm64-v8a'
+ninja: no work to do.

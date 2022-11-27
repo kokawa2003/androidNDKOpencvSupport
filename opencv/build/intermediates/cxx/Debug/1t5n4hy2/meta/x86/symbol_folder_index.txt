@@ -1,0 +1,1 @@
+/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/1t5n4hy2/obj/x86

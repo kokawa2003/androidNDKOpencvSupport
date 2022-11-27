@@ -1,0 +1,172 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/156l205n/x86",
+  "soFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/156l205n/obj/x86",
+  "soRepublishFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cmake/debug/obj/x86",
+  "abiPlatformVersion": 21,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/156l205n/obj",
+    "soRepublishFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cmake/debug/obj",
+    "cxxBuildFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/156l205n",
+    "intermediatesFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/156l205n",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "opencv_jni_shared"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx",
+      "intermediatesBaseFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates",
+      "intermediatesFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx",
+      "gradleModulePathName": ":opencv",
+      "moduleRootFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk",
+      "moduleBuildFile": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build.gradle",
+      "makeFile": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/home/kokawa2003/Android/Sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/home/kokawa2003/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/usr/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/usr/bin/ninja"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/home/kokawa2003/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/kokawa2003/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/kokawa2003/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/kokawa2003/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/samples",
+        "sdkFolder": "/home/kokawa2003/Android/Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_shared",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/156l205n/prefab/x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "156l205n532261wm3g4ah6c6m6k2n5g6w362l5v225r71w1o4u41038474u",
+  "configurationArguments": [
+    "-H/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d21",
+    "-DANDROID_PLATFORM\u003dandroid-21",
+    "-DANDROID_ABI\u003dx86",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DANDROID_NDK\u003d/home/kokawa2003/Android/Sdk/ndk/21.4.7075529",
+    "-DCMAKE_ANDROID_NDK\u003d/home/kokawa2003/Android/Sdk/ndk/21.4.7075529",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/home/kokawa2003/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/usr/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/156l205n/obj/x86",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/156l205n/obj/x86",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-B/home/kokawa2003/midas/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/156l205n/x86",
+    "-GNinja",
+    "-DANDROID_STL\u003dc++_shared"
+  ],
+  "stlLibraryFile": "/home/kokawa2003/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so"
+}

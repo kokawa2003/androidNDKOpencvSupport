@@ -1,0 +1,18 @@
+/home/kokawa2003/Android/Sdk/cmake/3.18.1/bin/cmake \
+  -H/home/kokawa2003/AndroidStudioProjects/MyApplication11/opencv/libcxx_helper \
+  -DCMAKE_SYSTEM_NAME=Android \
+  -DCMAKE_EXPORT_COMPILE_COMMANDS=ON \
+  -DCMAKE_SYSTEM_VERSION=21 \
+  -DANDROID_PLATFORM=android-21 \
+  -DANDROID_ABI=x86 \
+  -DCMAKE_ANDROID_ARCH_ABI=x86 \
+  -DANDROID_NDK=/home/kokawa2003/Android/Sdk/ndk/23.1.7779620 \
+  -DCMAKE_ANDROID_NDK=/home/kokawa2003/Android/Sdk/ndk/23.1.7779620 \
+  -DCMAKE_TOOLCHAIN_FILE=/home/kokawa2003/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \
+  -DCMAKE_MAKE_PROGRAM=/home/kokawa2003/Android/Sdk/cmake/3.18.1/bin/ninja \
+  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/kokawa2003/AndroidStudioProjects/MyApplication11/opencv/build/intermediates/cxx/Debug/2l4a13v1/obj/x86 \
+  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/kokawa2003/AndroidStudioProjects/MyApplication11/opencv/build/intermediates/cxx/Debug/2l4a13v1/obj/x86 \
+  -DCMAKE_BUILD_TYPE=Debug \
+  -B/home/kokawa2003/AndroidStudioProjects/MyApplication11/opencv/.cxx/Debug/2l4a13v1/x86 \
+  -GNinja \
+  -DANDROID_STL=c++_shared
